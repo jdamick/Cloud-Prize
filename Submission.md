@@ -16,6 +16,7 @@ REST API design to get feedback from community (including Denominator) to create
 Contributions to:
 
 https://github.com/Netflix/denominator
+(also indirectly to jclouds)
 https://github.com/Netflix/ribbon
 https://github.com/Netflix/astyanax
 https://github.com/ultradns/Coelacanth
